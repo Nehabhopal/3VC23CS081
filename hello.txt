@@ -1,2 +1,5 @@
 Hello word
+<<<<<<< HEAD
 Hello world
+=======
+>>>>>>> 805fb8d (hello msg)
